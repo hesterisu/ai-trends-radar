@@ -11,19 +11,19 @@
 
 ---
 
-## 📅 Latest Snapshot: `26 November 2026, 08:49 UTC`
+## 📅 Latest Snapshot: `27 November 2026, 17:04 UTC`
 
 ### 🔥 Top Trending Open-Source AI Repositories
 Repositories gaining high momentum across the open-source developer ecosystem:
 
 | Repository | Stars | Language | Key Focus & Topics |
 | :--- | :---: | :---: | :--- |
-| **[morluto/rea](https://github.com/morluto/rea)** — *Reverse engineer anything with agents, from app behavior down to native binaries....* | ⭐ 478,935 | `TypeScript` | `agent-skills` `ai` `android` `claude-code` |
-| **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — *The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ...* | ⭐ 395,254 | `TypeScript` | `ai` `assistant` `crustacean` `molty` |
-| **[obra/superpowers](https://github.com/obra/superpowers)** — *An agentic skills framework & software development methodology that works....* | ⭐ 326,930 | `Shell` | `ai` `brainstorming` `coding` `obra` |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — *The agent that grows with you...* | ⭐ 266,203 | `Python` | `ai` `ai-agent` `ai-agents` `anthropic` |
-| **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — *Fair-code workflow automation platform with native AI capabilities. Combine visual bu...* | ⭐ 212,182 | `TypeScript` | `ai` `apis` `automation` `cli` |
-| **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — *Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ ...* | ⭐ 210,388 | `TypeScript` | `ai` `ai-agents` `ai-crawler` `ai-scraping` |
+| **[morluto/rea](https://github.com/morluto/rea)** — *Reverse engineer anything with agents, from app behavior down to native binaries....* | ⭐ 480,796 | `TypeScript` | `agent-skills` `ai` `android` `claude-code` |
+| **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — *The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ...* | ⭐ 395,344 | `TypeScript` | `ai` `assistant` `crustacean` `molty` |
+| **[obra/superpowers](https://github.com/obra/superpowers)** — *An agentic skills framework & software development methodology that works....* | ⭐ 328,115 | `Shell` | `ai` `brainstorming` `coding` `obra` |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — *The agent that grows with you...* | ⭐ 266,588 | `Python` | `ai` `ai-agent` `ai-agents` `anthropic` |
+| **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — *Fair-code workflow automation platform with native AI capabilities. Combine visual bu...* | ⭐ 212,396 | `TypeScript` | `ai` `apis` `automation` `cli` |
+| **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — *Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ ...* | ⭐ 211,483 | `TypeScript` | `ai` `ai-agents` `ai-crawler` `ai-scraping` |
 
 ---
 
@@ -32,12 +32,12 @@ State-of-the-art architectures and checkpoints trending on Hugging Face:
 
 | Model Identifier | Primary Task | Community Likes | Direct Link |
 | :--- | :---: | :---: | :---: |
-| **`Qwen/Qwen3.8-27B`** | `image-text-to-text` | ❤️ 21,811 | [Inspect Model →](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| **`black-forest-labs/FLUX.1-dev`** | `text-to-image` | ❤️ 16,352 | [Inspect Model →](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
-| **`deepseek-ai/DeepSeek-R1`** | `text-generation` | ❤️ 14,488 | [Inspect Model →](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
-| **`Lightricks/LTX-2.5`** | `image-to-video` | ❤️ 13,471 | [Inspect Model →](https://huggingface.co/Lightricks/LTX-2.5) |
-| **`moonshotai/Kimi-K3`** | `image-text-to-text` | ❤️ 12,027 | [Inspect Model →](https://huggingface.co/moonshotai/Kimi-K3) |
-| **`meta-llama/Llama-3.1-8B-Instruct`** | `text-generation` | ❤️ 9,119 | [Inspect Model →](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) |
+| **`Qwen/Qwen3.8-27B`** | `image-text-to-text` | ❤️ 21,894 | [Inspect Model →](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| **`black-forest-labs/FLUX.1-dev`** | `text-to-image` | ❤️ 16,397 | [Inspect Model →](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
+| **`deepseek-ai/DeepSeek-R1`** | `text-generation` | ❤️ 14,491 | [Inspect Model →](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
+| **`Lightricks/LTX-2.5`** | `image-to-video` | ❤️ 13,676 | [Inspect Model →](https://huggingface.co/Lightricks/LTX-2.5) |
+| **`moonshotai/Kimi-K3`** | `image-text-to-text` | ❤️ 12,031 | [Inspect Model →](https://huggingface.co/moonshotai/Kimi-K3) |
+| **`meta-llama/Llama-3.1-8B-Instruct`** | `text-generation` | ❤️ 9,158 | [Inspect Model →](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) |
 
 ---
 
